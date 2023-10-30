@@ -39,7 +39,7 @@ We welcome contributions to enhance the Locum Freelancing Platform. To contribut
 
 ## Acknowledgments
 
-This project was made possible by the dedication and innovation of our incredible team members: Amarnath, Dakshith, Sai Ram, Rishabh, and Binita.
+This project was made possible by the dedication and innovation of our incredible team members: Amarnath, Aniket, Sai Ram, Rishabh, and Binita.
 
 
 ## Screenshots
